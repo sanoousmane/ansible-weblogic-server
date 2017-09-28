@@ -1,0 +1,5 @@
+---
+- hosts: oracleWeblogic
+  remote_user: root
+  roles:
+    - ansible-weblogic-server

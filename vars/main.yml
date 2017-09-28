@@ -1,0 +1,22 @@
+---
+# vars file for ansible-weblogic-server
+
+packages_required:
+  - compat-libstdc++-33 
+  - binutils compat-libcap1 
+  - gcc 
+  - gcc-c++  
+  - glibc 
+  - glibc-devel  
+  - libaio  
+  - libaio-devel  
+  - libgcc  
+  - libstdc++  
+  - libstdc++-devel 
+  - ksh 
+  - make 
+  - sysstat 
+  - numactl 
+  - numactl-devel   
+  - motif 
+  - motif-devel
